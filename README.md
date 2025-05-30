@@ -25,7 +25,7 @@ Media Queries – For responsiveness
 
 # 🚀 How to Use
 ```markdown
-1.git clone https://github.com/ptiwary09/responsive-landing-page.git
+1.git clone https://github.com/ptiwary09/responsive-template.git
 2.Open index.html in your browser.
 3.Enjoy the smooth responsive experience! 🎉
 ```
