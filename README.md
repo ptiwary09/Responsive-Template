@@ -3,7 +3,7 @@ Welcome to my  **Responsive Landing Page project**!
 This is a sleek, modern landing page designed to work seamlessly across all screen sizes using HTML, CSS, and basic media queries. 🌐✨
 
 # 💡 Project Overview
-This landing page is built to showcase the fundamentals of responsive web design. With the help of media queries, the layout adapts beautifully to mobile, tablet, and desktop devices.
+This landing page is built to showcase the fundamentals of **responsive web design**. With the help of media queries, the layout adapts beautifully to **mobile**, **tablet**, and **desktop** devices.
 
 # ✨ Key Features
 📱 Responsive Design – Looks great on all screen sizes
@@ -17,11 +17,11 @@ This landing page is built to showcase the fundamentals of responsive web design
 🧾 Semantic HTML Structure – For accessibility and SEO
 
 # 🛠️ Built With
-HTML5 – For structure
+**HTML5** – For structure
 
-CSS – For styling
+**CSS** – For styling
 
-Media Queries – For responsiveness
+**Media Queries** – For responsiveness
 
 # 🚀 How to Use
 ```markdown
